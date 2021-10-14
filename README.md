@@ -4,9 +4,10 @@ Note: Testing has been done in Portable Mode, your results may vary.
 
 | Game | Status | Overclocking | Notes |
 | --- | --- | --- | --- |
-| **Burning Rangers** | Playable | Yes | Video May Skip, performance is ok, overclock needed |
-| **Panzer Dragoon Saga** | Playable | No | Further testing needed, performance is very good |
-| **Sega Rally** | Playable | No | Further testing needed, performance is very good |
+| **Burning Rangers** | Playable | Yes - 1428mhz | Video May Skip, performance is ok, overclock needed  |
+| **Panzer Dragoon Saga** | Playable | No - Stock | Further testing needed, performance is very good |
+| **Sega Rally** | Playable | No - Stock | Further testing needed, performance is very good |
+| **Virtua Fighter 2** | Playable | Yes - 1224mhz | No Sound FX, performance is ok, slight overclock needed ~1224mhz |
 
 ![image](https://user-images.githubusercontent.com/2754819/137221201-849009fc-6fdf-479d-89fc-45dd62dc272f.png)
 
