@@ -1,4 +1,5 @@
 Experimental Settings for Saturn Tribute Emulator.
+Note: Testing has been done Portable Mode only, your results may vary.
 
 | Game | Status | Overclocking | Notes |
 | --- | --- | --- | --- |
