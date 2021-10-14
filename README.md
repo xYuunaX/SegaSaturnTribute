@@ -1,5 +1,10 @@
 Experimental Settings for Saturn Tribute Emulator.
 
+| Game | Status | Overclocking | Notes |
+| --- | --- | --- | --- |
+| **Burning Rangers** | Playable | Yes | Video May Skip, but performance seems better |
+| **Panzer Dragoon Saga** | Playable | No | Further testing needed, but performance seems better |
+
 ![image](https://user-images.githubusercontent.com/2754819/137221201-849009fc-6fdf-479d-89fc-45dd62dc272f.png)
 
 
