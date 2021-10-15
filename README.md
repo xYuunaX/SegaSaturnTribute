@@ -2,6 +2,8 @@ Experimental Settings for Saturn Tribute Emulator.
 
 Note: Testing has been done in Portable Mode, your results may vary.
 
+There are generic configs you try out and see if that fixes or improves performance. (3D/2D) 
+
 | Game | Status | Overclocking | Notes |
 | --- | --- | --- | --- |
 | **Baroque** | Playable | No - Stock | Further testing needed, performance is very good |
