@@ -4,6 +4,8 @@ Experimental Settings for Saturn Tribute Emulator. (aka SSF)
       
 You may try out some generic configs that may help or improve performance. (3D/2D) 
 
+Tip: Adjusting the BlockClock may help with compatibility. (Thanks to Stranno & andre_int @gbatemp)
+
 Common Settings:
 * Widescreen/Stretch Off 
 * Bilinear Filtering Off
