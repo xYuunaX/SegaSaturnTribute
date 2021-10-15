@@ -7,8 +7,8 @@ You may try out some generic configs that may help or improve performance. (3D/2
 Common Settings:
 * Widescreen/Stretch Off 
 * Bilinear Filtering Off
-* Vsync Off
-* Frame Skip Off
+* Vsync Off (VSynchWait)
+* Frame Skip Off (AutoFieldSkip)
 * Background Off
 * Anti Aliasing Off
 * Sound Vol adjusted to 100%
