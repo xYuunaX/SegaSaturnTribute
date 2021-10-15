@@ -1,4 +1,4 @@
-Experimental Settings for Saturn Tribute Emulator.
+Experimental Settings for Saturn Tribute Emulator. (aka SSF)
 
       Note: Testing has been only been done in Portable Mode, so your results may vary.
       
