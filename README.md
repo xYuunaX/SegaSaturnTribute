@@ -4,6 +4,7 @@ Note: Testing has been done in Portable Mode, your results may vary.
 
 | Game | Status | Overclocking | Notes |
 | --- | --- | --- | --- |
+| **Baroque** | Playable | No - Stock | Further testing needed, performance is very good |
 | **Burning Rangers** | Playable | Yes - 1428mhz | Video May Skip, performance is ok, overclock needed |
 | **Panzer Dragoon Saga** | Playable | No - Stock | Further testing needed, performance is very good |
 | **Sega Rally** | Playable | No - Stock | Further testing needed, performance is very good |
