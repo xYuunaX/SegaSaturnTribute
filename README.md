@@ -4,6 +4,14 @@ Note: Testing has been done in Portable Mode, your results may vary.
 
 There are generic configs you try out and see if that fixes or improves performance. (3D/2D) 
 
+* Widescreen/Stretch Off 
+* Bilinear Filtering Off
+* Vsync Off
+* Frame Skip Off
+* Background Off
+* Anti Aliasing Off
+* Sound Vol adjusted to 100%
+
 | Game | Status | Overclocking | Notes |
 | --- | --- | --- | --- |
 | **Baroque** | Playable | No - Stock | Further testing needed, performance is very good |
