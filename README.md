@@ -11,6 +11,7 @@ Common Settings:
 * Frame Skip Off (AutoFieldSkip)
 * Background Off
 * Anti Aliasing Off
+* Full Screen
 * Sound Vol adjusted to 100%
 
 | Game | Status | Overclocking | Notes |
