@@ -1,7 +1,8 @@
 Experimental Settings for Saturn Tribute Emulator.
 
-Note: Testing has been done in Portable Mode, so your results may vary.
-      You may try out some generic configs that may help or improve performance. (3D/2D) 
+      Note: Testing has been only been done in Portable Mode, so your results may vary.
+      
+You may try out some generic configs that may help or improve performance. (3D/2D) 
 
 Common Settings:
 * Widescreen/Stretch Off 
