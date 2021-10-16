@@ -19,7 +19,7 @@ Common Settings:
 | Game | Status | Overclocking | Notes |
 | --- | --- | --- | --- |
 | **Baroque** | Playable | No - Stock | Further testing needed, performance is very good |
-| **Burning Rangers** | Playable | 1428mhz | Video May Skip, performance is ok |
+| **Burning Rangers** | Playable | 1428mhz | Video Sound stuttering, performance is ok |
 | **Panzer Dragoon Saga** | Playable | No - Stock | Further testing needed, performance is very good |
 | **Radiant Silvergun** | Playable | 1224mhz | Further testing needed, performance is good |
 | **Sega Rally** | Playable | No - Stock | Further testing needed, performance is very good |
