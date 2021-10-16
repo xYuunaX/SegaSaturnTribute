@@ -25,7 +25,7 @@ Common Settings:
 | Game | Status | Overclocking | Notes | Widescreen |
 | --- | --- | --- | --- | --- |
 | **Baroque** | Playable | Stock | Performance is very good | Yes |
-| **Burning Rangers** | Playable | 1428 mhz | Vid Skip, Performance is decent | No |
+| **Burning Rangers** | Playable | 1428 mhz | Vid Skipping, Performance is decent | No |
 | **Dark Savior** | Playable | 1224 mhz | Performance is good | No |
 | **Fighters Megamix** | Playable | Stock | Performance is very good | No |
 | **NiGHTS into Dreams** | Playable | Stock | Performance is very good | No |
