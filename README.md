@@ -24,7 +24,7 @@ Common Settings:
 | **Radiant Silvergun** | Playable | 1224mhz | Further testing needed, performance is good |
 | **Sega Rally** | Playable | No - Stock | Further testing needed, performance is very good |
 | **Vandal Hearts** | Playable | 1326mhz | Further testing needed, performance is ok |
-| **Virtua Fighter 2** | Playable | 1122mhz | No Sound FX, performance is good, overclock needed |
+| **Virtua Fighter 2** | Playable | 1122mhz | No Sound FX, performance is good |
 
 ![image](https://user-images.githubusercontent.com/2754819/137221201-849009fc-6fdf-479d-89fc-45dd62dc272f.png)
 
