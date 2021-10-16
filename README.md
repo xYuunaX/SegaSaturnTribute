@@ -9,7 +9,7 @@ Tips on tweaking your own config.
       * AlternativeDecode="0" if sound is stutering
       * BlockCode="100-450" if the game doesn't boot, try BlockCode 200 and work your way up/down.
       * VDP1DrawThread="1" may boost performance for certain titles, but will cause stuttering for others
-      * CDBlockNoWait="1" for faster loading
+      * CDBlockNoWait="1" for faster loading, may cause some games to load into blackscreen.
       * Deinterlace="1" (Not sure if this has any effect, but apparently it's suppose to speed up some games)
 
 Common Settings:
@@ -25,15 +25,15 @@ Common Settings:
 | Game | Status | Overclocking | Notes |
 | --- | --- | --- | --- |
 | **Baroque** | Playable | Stock | Further testing needed, performance is very good |
-| **Burning Rangers** | Playable | 1428mhz | Video Sound stuttering, performance is ok |
-| **Dark Savior** | Playable | 1224mhz | Further testing needed, performance is good |
+| **Burning Rangers** | Playable | 1428 mhz | Video Sound stuttering, performance is ok |
+| **Dark Savior** | Playable | 1224 mhz | Further testing needed, performance is good |
 | **Fighters Megamix** | Playable | Stock | Further Testing needed, performance is very good |
-| **Panzer Dragoon Saga** | Playable | No - Stock | Further testing needed, performance is very good |
-| **Radiant Silvergun** | Playable | 1224mhz | Further testing needed, performance is good |
+| **Panzer Dragoon Saga** | Playable | Stock | Further testing needed, performance is very good |
+| **Radiant Silvergun** | Playable | 1224 mhz | Further testing needed, performance is good |
 | **Sega Rally** | Playable | Stock | Further testing needed, performance is very good |
 | **The Legend of Oasis** | Playable | Stock | Further testing needed, performance is very good |
-| **Vandal Hearts** | Playable | 1326mhz | Further testing needed, performance is ok |
-| **Virtua Fighter 2** | Playable | 1122mhz | No Sound FX, performance is good |
+| **Vandal Hearts** | Playable | 1326 mhz | Further testing needed, performance is ok |
+| **Virtua Fighter 2** | Playable | 1122 mhz | No Sound FX, performance is good |
 
 ![image](https://user-images.githubusercontent.com/2754819/137221201-849009fc-6fdf-479d-89fc-45dd62dc272f.png)
 
