@@ -21,6 +21,7 @@ Common Settings:
 | **Baroque** | Playable | No - Stock | Further testing needed, performance is very good |
 | **Burning Rangers** | Playable | 1428mhz | Video May Skip, performance is ok |
 | **Panzer Dragoon Saga** | Playable | No - Stock | Further testing needed, performance is very good |
+| **Radiant Silvergun** | Playable | 1224mhz | Further testing needed, performance is good |
 | **Sega Rally** | Playable | No - Stock | Further testing needed, performance is very good |
 | **Vandal Hearts** | Playable | 1326mhz | Further testing needed, performance is ok |
 | **Virtua Fighter 2** | Playable | 1224mhz | No Sound FX, performance is ok, overclock needed |
