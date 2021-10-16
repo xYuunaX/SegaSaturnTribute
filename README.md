@@ -7,7 +7,7 @@ You may try out some generic configs that may help or improve performance. (3D/2
 Tips on tweaking your own config.
 
       * AlternativeDecode="0" if sound is stutering
-      * BlockCode="100-450" if the game doesn't boot, blackscreen
+      * BlockCode="100-450" if the game doesn't boot, try BlockCode 200 and work your way up/down.
       * VDP1DrawThread="1" may boost performance for certain titles, but will cause stuttering for others
       * CDBlockNoWait="1" for faster loading
       * Deinterlace="1" (Not sure if this has any effect, but apparently it's suppose to speed up some games)
