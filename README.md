@@ -28,6 +28,7 @@ Common Settings:
 | **Burning Rangers** | Playable | 1428 mhz | Video Sound stuttering, performance is ok |
 | **Dark Savior** | Playable | 1224 mhz | Further testing needed, performance is good |
 | **Fighters Megamix** | Playable | Stock | Further testing needed, performance is very good |
+| **NiGHTS into Dreams** | Playable | Stock | Further testing needed, performance is very good |
 | **Panzer Dragoon Saga** | Playable | Stock | Further testing needed, performance is very good |
 | **Radiant Silvergun** | Playable | 1224 mhz | Further testing needed, performance is good |
 | **Sega Rally** | Playable | Stock | Further testing needed, performance is very good |
