@@ -24,17 +24,17 @@ Common Settings:
 
 | Game | Status | Overclocking | Notes | Widescreen |
 | --- | --- | --- | --- | --- |
-| **Baroque** | Playable | Stock | Further testing needed, performance is very good | Yes |
-| **Burning Rangers** | Playable | 1428 mhz | Video Sound stuttering, performance is ok | No |
-| **Dark Savior** | Playable | 1224 mhz | Further testing needed, performance is good | No |
-| **Fighters Megamix** | Playable | Stock | Further testing needed, performance is very good | No |
-| **NiGHTS into Dreams** | Playable | Stock | Further testing needed, performance is very good | No |
-| **Panzer Dragoon Saga** | Playable | Stock | Further testing needed, performance is very good | No |
-| **Radiant Silvergun** | Playable | 1224 mhz | Further testing needed, performance is good | No |
-| **Sega Rally** | Playable | Stock | Further testing needed, performance is very good | No |
-| **The Legend of Oasis** | Playable | Stock | Further testing needed, performance is very good | No |
-| **Vandal Hearts** | Playable | 1326 mhz | Further testing needed, performance is ok | Yes |
-| **Virtua Fighter 2** | Playable | 1122 mhz | No Sound FX, performance is good | No |
+| **Baroque** | Playable | Stock | Performance is very good | Yes |
+| **Burning Rangers** | Playable | 1428 mhz | Vid Skip, Performance is decent | No |
+| **Dark Savior** | Playable | 1224 mhz | Performance is good | No |
+| **Fighters Megamix** | Playable | Stock | Performance is very good | No |
+| **NiGHTS into Dreams** | Playable | Stock | Performance is very good | No |
+| **Panzer Dragoon Saga** | Playable | Stock | Performance is very good | No |
+| **Radiant Silvergun** | Playable | 1224 mhz | Performance is good | No |
+| **Sega Rally** | Playable | Stock | Performance is very good | No |
+| **The Legend of Oasis** | Playable | Stock | Performance is very good | No |
+| **Vandal Hearts** | Playable | 1326 mhz | Performance is decent | Yes |
+| **Virtua Fighter 2** | Playable | 1122 mhz | No SFX, Performance is good | No |
 
 ![image](https://user-images.githubusercontent.com/2754819/137221201-849009fc-6fdf-479d-89fc-45dd62dc272f.png)
 
