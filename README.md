@@ -27,7 +27,7 @@ Common Settings:
 | **Baroque** | Playable | Stock | Further testing needed, performance is very good |
 | **Burning Rangers** | Playable | 1428 mhz | Video Sound stuttering, performance is ok |
 | **Dark Savior** | Playable | 1224 mhz | Further testing needed, performance is good |
-| **Fighters Megamix** | Playable | Stock | Further Testing needed, performance is very good |
+| **Fighters Megamix** | Playable | Stock | Further testing needed, performance is very good |
 | **Panzer Dragoon Saga** | Playable | Stock | Further testing needed, performance is very good |
 | **Radiant Silvergun** | Playable | 1224 mhz | Further testing needed, performance is good |
 | **Sega Rally** | Playable | Stock | Further testing needed, performance is very good |
