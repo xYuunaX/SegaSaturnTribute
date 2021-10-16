@@ -24,13 +24,14 @@ Common Settings:
 
 | Game | Status | Overclocking | Notes |
 | --- | --- | --- | --- |
-| **Baroque** | Playable | No - Stock | Further testing needed, performance is very good |
+| **Baroque** | Playable | Stock | Further testing needed, performance is very good |
 | **Burning Rangers** | Playable | 1428mhz | Video Sound stuttering, performance is ok |
 | **Dark Savior** | Playable | 1224mhz | Further testing needed, performance is good |
-| **Fighters Megamix** | Playable | No - Stock | Further Testing needed, performance is very good |
+| **Fighters Megamix** | Playable | Stock | Further Testing needed, performance is very good |
 | **Panzer Dragoon Saga** | Playable | No - Stock | Further testing needed, performance is very good |
 | **Radiant Silvergun** | Playable | 1224mhz | Further testing needed, performance is good |
-| **Sega Rally** | Playable | No - Stock | Further testing needed, performance is very good |
+| **Sega Rally** | Playable | Stock | Further testing needed, performance is very good |
+| **The Legend of Oasis** | Playable | Stock | Further testing needed, performance is very good |
 | **Vandal Hearts** | Playable | 1326mhz | Further testing needed, performance is ok |
 | **Virtua Fighter 2** | Playable | 1122mhz | No Sound FX, performance is good |
 
