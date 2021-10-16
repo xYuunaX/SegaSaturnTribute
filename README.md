@@ -22,19 +22,19 @@ Common Settings:
 * Full Screen
 * Sound Vol adjusted to 100%
 
-| Game | Status | Overclocking | Notes |
-| --- | --- | --- | --- |
-| **Baroque** | Playable | Stock | Further testing needed, performance is very good |
-| **Burning Rangers** | Playable | 1428 mhz | Video Sound stuttering, performance is ok |
-| **Dark Savior** | Playable | 1224 mhz | Further testing needed, performance is good |
-| **Fighters Megamix** | Playable | Stock | Further testing needed, performance is very good |
-| **NiGHTS into Dreams** | Playable | Stock | Further testing needed, performance is very good |
-| **Panzer Dragoon Saga** | Playable | Stock | Further testing needed, performance is very good |
-| **Radiant Silvergun** | Playable | 1224 mhz | Further testing needed, performance is good |
-| **Sega Rally** | Playable | Stock | Further testing needed, performance is very good |
-| **The Legend of Oasis** | Playable | Stock | Further testing needed, performance is very good |
-| **Vandal Hearts** | Playable | 1326 mhz | Further testing needed, performance is ok |
-| **Virtua Fighter 2** | Playable | 1122 mhz | No Sound FX, performance is good |
+| Game | Status | Overclocking | Notes | Widescreen |
+| --- | --- | --- | --- | --- |
+| **Baroque** | Playable | Stock | Further testing needed, performance is very good | Yes |
+| **Burning Rangers** | Playable | 1428 mhz | Video Sound stuttering, performance is ok | No |
+| **Dark Savior** | Playable | 1224 mhz | Further testing needed, performance is good | No |
+| **Fighters Megamix** | Playable | Stock | Further testing needed, performance is very good | No |
+| **NiGHTS into Dreams** | Playable | Stock | Further testing needed, performance is very good | No |
+| **Panzer Dragoon Saga** | Playable | Stock | Further testing needed, performance is very good | No |
+| **Radiant Silvergun** | Playable | 1224 mhz | Further testing needed, performance is good | No |
+| **Sega Rally** | Playable | Stock | Further testing needed, performance is very good | No |
+| **The Legend of Oasis** | Playable | Stock | Further testing needed, performance is very good | No |
+| **Vandal Hearts** | Playable | 1326 mhz | Further testing needed, performance is ok | Yes |
+| **Virtua Fighter 2** | Playable | 1122 mhz | No Sound FX, performance is good | No |
 
 ![image](https://user-images.githubusercontent.com/2754819/137221201-849009fc-6fdf-479d-89fc-45dd62dc272f.png)
 
