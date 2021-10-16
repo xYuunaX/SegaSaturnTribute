@@ -19,10 +19,10 @@ Common Settings:
 | Game | Status | Overclocking | Notes |
 | --- | --- | --- | --- |
 | **Baroque** | Playable | No - Stock | Further testing needed, performance is very good |
-| **Burning Rangers** | Playable | 1428mhz | Video May Skip, performance is ok, overclock needed |
+| **Burning Rangers** | Playable | 1428mhz | Video May Skip, performance is ok |
 | **Panzer Dragoon Saga** | Playable | No - Stock | Further testing needed, performance is very good |
 | **Sega Rally** | Playable | No - Stock | Further testing needed, performance is very good |
-| **Vandal Hearts** | Playable | 1326mhz | Further testing needed, performance is ok, overclock needed |
+| **Vandal Hearts** | Playable | 1326mhz | Further testing needed, performance is ok |
 | **Virtua Fighter 2** | Playable | 1224mhz | No Sound FX, performance is ok, overclock needed |
 
 ![image](https://user-images.githubusercontent.com/2754819/137221201-849009fc-6fdf-479d-89fc-45dd62dc272f.png)
