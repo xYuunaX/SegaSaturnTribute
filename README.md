@@ -22,19 +22,19 @@ Common Settings:
 * Full Screen
 * Sound Vol adjusted to 100%
 
-| Game | Status | Overclocking | Notes | Widescreen |
+| Game | Status | CPU Speed | Notes | Widescreen |
 | --- | --- | --- | --- | --- |
 | **Baroque** | Playable | Stock | Performance is very good | Yes |
-| **Burning Rangers** | Playable | 1428 mhz | Vid Skipping, Performance is decent | No |
-| **Dark Savior** | Playable | 1224 mhz | Performance is good | No |
+| **Burning Rangers** | Playable | 1428 | Vid Skipping, Performance is decent | No |
+| **Dark Savior** | Playable | 1224 | Performance is good | No |
 | **Fighters Megamix** | Playable | Stock | Performance is very good | No |
 | **NiGHTS into Dreams** | Playable | Stock | Performance is very good | No |
 | **Panzer Dragoon Saga** | Playable | Stock | Performance is very good | No |
-| **Radiant Silvergun** | Playable | 1224 mhz | Performance is good | No |
+| **Radiant Silvergun** | Playable | 1224 | Performance is good | No |
 | **Sega Rally** | Playable | Stock | Performance is very good | No |
 | **The Legend of Oasis** | Playable | Stock | Performance is very good | No |
-| **Vandal Hearts** | Playable | 1326 mhz | Performance is decent | Yes |
-| **Virtua Fighter 2** | Playable | 1122 mhz | No SFX, Performance is good | No |
+| **Vandal Hearts** | Playable | 1326 | Performance is decent | Yes |
+| **Virtua Fighter 2** | Playable | 1122 | No SFX, Performance is good | No |
 | **Virtual ON** | Playable | Stock | 2nd player fix, Performance is very good | No |
 
 EZ Configs:
