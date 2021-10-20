@@ -2,7 +2,7 @@ Experimental Settings for Saturn Tribute Emulator. (aka SSF)
 
       Note: Testing has been only been done in Portable Mode, so your results may vary.
       
-You may try out some generic configs that may help or improve performance. (3D/2D) 
+If a config does not exist, you may try out one of the generic ini, it may not need specific settings and could help or improve performance. (3D/2D) 
 
 Tips on tweaking your own config.
 
@@ -13,7 +13,7 @@ Tips on tweaking your own config.
       * Deinterlace="1" (Not sure if this has any effect, but apparently it's suppose to speed up some games)
 
 Common Settings:
-* Cartridge set to 1MB (Change to 4MB if needed)
+* Cartridge set to 1MB (Change to 4MB (5c) if needed)
 * Widescreen/Stretch Off 
 * Bilinear Filtering Off
 * Vsync Off (VSynchWait)
