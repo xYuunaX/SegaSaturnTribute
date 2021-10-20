@@ -13,6 +13,7 @@ Tips on tweaking your own config.
       * Deinterlace="1" (Not sure if this has any effect, but apparently it's suppose to speed up some games)
 
 Common Settings:
+* Cartridge set to 4MB (Change to 1MB if Save States crash)
 * Widescreen/Stretch Off 
 * Bilinear Filtering Off
 * Vsync Off (VSynchWait)
@@ -27,6 +28,7 @@ Common Settings:
 | **Baroque** | Playable | Stock | Performance is very good | Yes |
 | **Burning Rangers** | Playable | 1428 | Vid Skipping, Performance is decent | No |
 | **Dark Savior** | Playable | 1224 | Performance is good | No |
+| **Deep Fear** | Playable | Stock | Performance is very good | No |
 | **Fighters Megamix** | Playable | Stock | Performance is very good | No |
 | **NiGHTS into Dreams** | Playable | Stock | Performance is very good | No |
 | **Panzer Dragoon Saga** | Playable | Stock | Performance is very good | No |
