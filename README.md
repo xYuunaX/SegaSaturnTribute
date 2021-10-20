@@ -13,7 +13,7 @@ Tips on tweaking your own config.
       * Deinterlace="1" (Not sure if this has any effect, but apparently it's suppose to speed up some games)
 
 Common Settings:
-* Cartridge set to 4MB (Change to 1MB if Save States crash)
+* Cartridge set to 1MB (Change to 4MB if needed)
 * Widescreen/Stretch Off 
 * Bilinear Filtering Off
 * Vsync Off (VSynchWait)
