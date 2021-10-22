@@ -1,3 +1,5 @@
+Compatibility List: https://docs.google.com/spreadsheets/d/1X4iLL8J5sPMlxr_XbfZ-3f21IF9ni-otn2wwl-4hzsk/edit#gid=0
+
 Experimental Settings for Saturn Tribute Emulator. (aka SSF)
 
       Note: Testing has been only been done in Portable Mode, so your results may vary.
