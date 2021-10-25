@@ -36,6 +36,7 @@ Common Settings:
 | **Panzer Dragoon Saga** | Playable | Stock | Performance is very good | No |
 | **Radiant Silvergun** | Playable | 1224 | Performance is good | No |
 | **Sega Rally** | Playable | Stock | Performance is very good | No |
+| **Sonic JAM** | Unplayable | Stock | Experimental Config that will boot the game |
 | **The Legend of Oasis** | Playable | Stock | Performance is very good | No |
 | **Vandal Hearts** | Playable | 1326 | Performance is decent | Yes |
 | **Virtua Fighter 2** | Playable | 1122 | No SFX, Performance is good | No |
