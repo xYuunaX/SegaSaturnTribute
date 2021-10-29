@@ -27,7 +27,7 @@ Tips on tweaking your own config.
 * Full Screen
 * Sound Vol adjusted to 100%
 
-| Game | Status | CPU Speed | Notes | 16:9 |
+| Game | Status | CPU | Notes | 16:9 |
 | --- | --- | --- | --- | --- |
 | **Baroque** | Playable | Stock | Performance is very good | Yes |
 | **Burning Rangers** | Playable | 1428 | Vid Skipping, Performance is decent | No |
