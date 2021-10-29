@@ -1,4 +1,5 @@
 **Compatibility List:** https://docs.google.com/spreadsheets/d/1X4iLL8J5sPMlxr_XbfZ-3f21IF9ni-otn2wwl-4hzsk/edit?usp=sharing
+**Disable Saved Settings Permanently** https://github.com/xYuunaX/SegaSaturnTribute/wiki/Edit-Save-so-emulator-loads-config.ini-instead.
 
 Experimental Settings for Saturn Tribute Emulator. (aka SSF)
 
