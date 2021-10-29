@@ -2,7 +2,7 @@
 
 **Disable Saved Settings Permanently** https://github.com/xYuunaX/SegaSaturnTribute/wiki/Edit-Save-so-emulator-loads-config.ini-instead.
 
-Experimental Settings for Saturn Tribute Emulator. (aka SSF)
+# Experimental Settings for Saturn Tribute Emulator. (aka SSF)
 
       Note: Testing has been only been done in Portable Mode, so your results may vary.
       
@@ -16,7 +16,7 @@ Tips on tweaking your own config.
       * CDBlockNoWait="1" for faster loading, may cause some games to load into blackscreen.
       * Deinterlace="1" (Not sure if this has any effect, but apparently it's suppose to speed up some games)
 
-Common Settings:
+### Common Settings:
 * Cartridge set to 1MB (Change to 4MB (5c) if needed)
 * Widescreen/Stretch Off 
 * Bilinear Filtering Off
@@ -44,7 +44,7 @@ Common Settings:
 | **Virtua Fighter 2** | Playable | 1122 | No SFX, Performance is good | No |
 | **Virtual ON** | Playable | Stock | 2P fix, Performance is very good | No |
 
-EZ Configs:
+**EZ Configs:**
 ![image](https://user-images.githubusercontent.com/2754819/137221201-849009fc-6fdf-479d-89fc-45dd62dc272f.png)
 
 **PC Compatibility List**
