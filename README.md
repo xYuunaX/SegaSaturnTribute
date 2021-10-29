@@ -2,7 +2,7 @@
 
 **Disable Saved Settings Permanently** https://github.com/xYuunaX/SegaSaturnTribute/wiki/Edit-Save-so-emulator-loads-config.ini-instead.
 
-# Experimental Settings for Saturn Tribute Emulator. (aka SSF)
+# Experimental Settings for Saturn Tribute Emulator
 
       Note: Testing has been only been done in Portable Mode, so your results may vary.
       
